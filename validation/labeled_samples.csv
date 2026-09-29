@@ -1,0 +1,221 @@
+round,ticket_id,predicted_theme,label_correct,purpose
+1 (first version of rules),TK-241392,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-248962,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-249666,Battery / charging,Y,development
+1 (first version of rules),TK-244145,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-254529,Pairing / Bluetooth / connection,Y,development
+1 (first version of rules),TK-246781,Return / pickup problem,Y,development
+1 (first version of rules),TK-246628,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-244121,Battery / charging,Y,development
+1 (first version of rules),TK-251473,Audio quality / mic,N,development
+1 (first version of rules),TK-245787,Price / coupon / discount,Y,development
+1 (first version of rules),TK-253220,Battery / charging,Y,development
+1 (first version of rules),TK-242861,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-249373,Login / OTP / account,Y,development
+1 (first version of rules),TK-244613,Pairing / Bluetooth / connection,N,development
+1 (first version of rules),TK-254315,Battery / charging,Y,development
+1 (first version of rules),TK-249272,Delivery delayed / tracking,N,development
+1 (first version of rules),TK-244138,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-245734,Warranty / repair status,Y,development
+1 (first version of rules),TK-245253,Warranty / repair status,Y,development
+1 (first version of rules),TK-249501,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-244212,Battery / charging,Y,development
+1 (first version of rules),TK-241185,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-247700,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-250921,Refund not received,Y,development
+1 (first version of rules),TK-243714,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-242341,"Payment taken, no order / duplicate charge",N,development
+1 (first version of rules),TK-243725,Order change / cancellation,Y,development
+1 (first version of rules),TK-241614,Battery / charging,Y,development
+1 (first version of rules),TK-251196,Pairing / Bluetooth / connection,Y,development
+1 (first version of rules),TK-242648,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-245151,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-246722,Refund not received,N,development
+1 (first version of rules),TK-252125,App / firmware / update,Y,development
+1 (first version of rules),TK-244093,Order change / cancellation,Y,development
+1 (first version of rules),TK-247462,Warranty / repair status,Y,development
+1 (first version of rules),TK-242003,Pairing / Bluetooth / connection,Y,development
+1 (first version of rules),TK-245453,Refund not received,Y,development
+1 (first version of rules),TK-253396,Invoice / GST request,N,development
+1 (first version of rules),TK-243744,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-242953,Refund not received,N,development
+1 (first version of rules),TK-243455,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-253403,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-248394,Order change / cancellation,Y,development
+1 (first version of rules),TK-251500,App / firmware / update,Y,development
+1 (first version of rules),TK-241406,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-245391,Invoice / GST request,Y,development
+1 (first version of rules),TK-243506,Pairing / Bluetooth / connection,Y,development
+1 (first version of rules),TK-244699,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-244890,Refund not received,N,development
+1 (first version of rules),TK-254020,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-247909,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-250960,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-243427,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-248159,Refund not received,N,development
+1 (first version of rules),TK-249628,Audio quality / mic,Y,development
+1 (first version of rules),TK-242619,Battery / charging,Y,development
+1 (first version of rules),TK-245499,Audio quality / mic,Y,development
+1 (first version of rules),TK-250391,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-242409,Refund not received,Y,development
+1 (first version of rules),TK-248848,Wrong / damaged item received,Y,development
+1 (first version of rules),TK-248452,Delivery delayed / tracking,N,development
+1 (first version of rules),TK-244391,Battery / charging,Y,development
+1 (first version of rules),TK-251170,"Payment taken, no order / duplicate charge",N,development
+1 (first version of rules),TK-245088,Pairing / Bluetooth / connection,N,development
+1 (first version of rules),TK-246345,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-242613,Refund not received,Y,development
+1 (first version of rules),TK-244644,Order change / cancellation,Y,development
+1 (first version of rules),TK-241661,Pre-sale / how-to enquiry,Y,development
+1 (first version of rules),TK-245980,Unclear / other,N,development
+1 (first version of rules),TK-252378,Login / OTP / account,Y,development
+1 (first version of rules),TK-243855,Refund not received,N,development
+1 (first version of rules),TK-252434,Audio quality / mic,Y,development
+1 (first version of rules),TK-246618,Order change / cancellation,Y,development
+1 (first version of rules),TK-250888,Delivery delayed / tracking,Y,development
+1 (first version of rules),TK-241000,Audio quality / mic,Y,development
+1 (first version of rules),TK-240288,Refund not received,Y,development
+1 (first version of rules),TK-254651,Audio quality / mic,Y,development
+1 (first version of rules),TK-240555,Invoice / GST request,Y,development
+1 (first version of rules),TK-240222,"Payment taken, no order / duplicate charge",Y,development
+1 (first version of rules),TK-246547,Refund not received,Y,development
+2 (after fixes),TK-251323,Battery / charging,Y,development
+2 (after fixes),TK-250042,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-243141,Audio quality / mic,Y,development
+2 (after fixes),TK-241477,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-244594,Pre-sale / how-to enquiry,Y,development
+2 (after fixes),TK-249242,Price / coupon / discount,Y,development
+2 (after fixes),TK-254036,Battery / charging,Y,development
+2 (after fixes),TK-243318,Login / OTP / account,Y,development
+2 (after fixes),TK-243560,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-247144,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-247220,Invoice / GST request,Y,development
+2 (after fixes),TK-249324,Audio quality / mic,Y,development
+2 (after fixes),TK-251606,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-250594,Wrong / damaged item received,Y,development
+2 (after fixes),TK-252313,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-250869,Order change / cancellation,Y,development
+2 (after fixes),TK-254258,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-244903,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-250022,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-246686,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-249313,Wrong / damaged item received,Y,development
+2 (after fixes),TK-249631,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-249053,Price / coupon / discount,Y,development
+2 (after fixes),TK-244430,Warranty / repair status,Y,development
+2 (after fixes),TK-253640,Physical defect,Y,development
+2 (after fixes),TK-245395,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-247190,Login / OTP / account,Y,development
+2 (after fixes),TK-252241,Battery / charging,Y,development
+2 (after fixes),TK-243551,App / firmware / update,Y,development
+2 (after fixes),TK-240656,Physical defect,N,development
+2 (after fixes),TK-244942,Order change / cancellation,Y,development
+2 (after fixes),TK-240984,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-249653,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-247567,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-246561,Order change / cancellation,Y,development
+2 (after fixes),TK-242740,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-253422,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-250602,Pre-sale / how-to enquiry,Y,development
+2 (after fixes),TK-244815,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-253260,Refund not received,Y,development
+2 (after fixes),TK-248735,Pre-sale / how-to enquiry,Y,development
+2 (after fixes),TK-254415,Invoice / GST request,Y,development
+2 (after fixes),TK-252368,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-247319,Pairing / Bluetooth / connection,N,development
+2 (after fixes),TK-247454,Battery / charging,Y,development
+2 (after fixes),TK-254351,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-244551,Unclear / other,N,development
+2 (after fixes),TK-244438,Order change / cancellation,Y,development
+2 (after fixes),TK-248155,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-245277,Wrong / damaged item received,Y,development
+2 (after fixes),TK-249806,Pairing / Bluetooth / connection,Y,development
+2 (after fixes),TK-249042,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-252908,Price / coupon / discount,Y,development
+2 (after fixes),TK-247655,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-245692,Audio quality / mic,N,development
+2 (after fixes),TK-241150,Warranty / repair status,Y,development
+2 (after fixes),TK-246905,Refund not received,Y,development
+2 (after fixes),TK-240859,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-248891,Audio quality / mic,Y,development
+2 (after fixes),TK-240008,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-252200,Warranty / repair status,Y,development
+2 (after fixes),TK-240686,Refund not received,Y,development
+2 (after fixes),TK-245995,App / firmware / update,Y,development
+2 (after fixes),TK-245457,Refund not received,Y,development
+2 (after fixes),TK-247730,Pre-sale / how-to enquiry,Y,development
+2 (after fixes),TK-253579,Pre-sale / how-to enquiry,Y,development
+2 (after fixes),TK-249269,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-250426,Wrong / damaged item received,Y,development
+2 (after fixes),TK-252438,Wrong / damaged item received,Y,development
+2 (after fixes),TK-242979,Price / coupon / discount,Y,development
+2 (after fixes),TK-244411,Audio quality / mic,Y,development
+2 (after fixes),TK-252030,Wrong / damaged item received,Y,development
+2 (after fixes),TK-244835,Warranty / repair status,Y,development
+2 (after fixes),TK-248217,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-244275,Unclear / other,N,development
+2 (after fixes),TK-242920,"Payment taken, no order / duplicate charge",Y,development
+2 (after fixes),TK-250754,Audio quality / mic,Y,development
+2 (after fixes),TK-247385,Delivery delayed / tracking,Y,development
+2 (after fixes),TK-254056,Refund not received,Y,development
+2 (after fixes),TK-253836,Refund not received,Y,development
+3 (shipped code),TK-249467,Warranty / repair status,Y,final
+3 (shipped code),TK-242329,Audio quality / mic,Y,final
+3 (shipped code),TK-246803,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-247434,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-247840,Order change / cancellation,Y,final
+3 (shipped code),TK-243327,Refund not received,Y,final
+3 (shipped code),TK-246548,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-242167,Pre-sale / how-to enquiry,Y,final
+3 (shipped code),TK-249937,Audio quality / mic,N,final
+3 (shipped code),TK-243399,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-246763,Audio quality / mic,Y,final
+3 (shipped code),TK-254640,Unclear / other,N,final
+3 (shipped code),TK-249093,Login / OTP / account,Y,final
+3 (shipped code),TK-253936,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-251714,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-250856,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-250920,Invoice / GST request,Y,final
+3 (shipped code),TK-246685,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-243842,Pre-sale / how-to enquiry,Y,final
+3 (shipped code),TK-249690,Order change / cancellation,Y,final
+3 (shipped code),TK-245711,Pre-sale / how-to enquiry,Y,final
+3 (shipped code),TK-249910,Price / coupon / discount,Y,final
+3 (shipped code),TK-241415,Order change / cancellation,Y,final
+3 (shipped code),TK-248454,Refund not received,Y,final
+3 (shipped code),TK-252842,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-248167,Pairing / Bluetooth / connection,Y,final
+3 (shipped code),TK-240369,Pre-sale / how-to enquiry,Y,final
+3 (shipped code),TK-240661,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-246986,Pairing / Bluetooth / connection,Y,final
+3 (shipped code),TK-245804,Physical defect,Y,final
+3 (shipped code),TK-246452,Refund not received,Y,final
+3 (shipped code),TK-245486,Login / OTP / account,Y,final
+3 (shipped code),TK-243007,App / firmware / update,Y,final
+3 (shipped code),TK-241588,Warranty / repair status,Y,final
+3 (shipped code),TK-249033,Unclear / other,N,final
+3 (shipped code),TK-251747,Audio quality / mic,Y,final
+3 (shipped code),TK-250586,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-242398,Wrong / damaged item received,Y,final
+3 (shipped code),TK-241446,Refund not received,Y,final
+3 (shipped code),TK-252134,Pairing / Bluetooth / connection,Y,final
+3 (shipped code),TK-252691,Login / OTP / account,Y,final
+3 (shipped code),TK-251738,Warranty / repair status,N,final
+3 (shipped code),TK-247441,App / firmware / update,Y,final
+3 (shipped code),TK-242967,Battery / charging,Y,final
+3 (shipped code),TK-247397,App / firmware / update,Y,final
+3 (shipped code),TK-246343,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-253618,Wrong / damaged item received,Y,final
+3 (shipped code),TK-247432,Wrong / damaged item received,N,final
+3 (shipped code),TK-241775,Refund not received,Y,final
+3 (shipped code),TK-253453,"Payment taken, no order / duplicate charge",Y,final
+3 (shipped code),TK-245045,Invoice / GST request,Y,final
+3 (shipped code),TK-243928,Pairing / Bluetooth / connection,Y,final
+3 (shipped code),TK-245686,Pre-sale / how-to enquiry,Y,final
+3 (shipped code),TK-244633,Login / OTP / account,Y,final
+3 (shipped code),TK-243774,Delivery delayed / tracking,Y,final
+3 (shipped code),TK-243579,Unclear / other,N,final
+3 (shipped code),TK-249065,Wrong / damaged item received,Y,final
+3 (shipped code),TK-245830,Price / coupon / discount,Y,final
+3 (shipped code),TK-246459,Battery / charging,Y,final
+3 (shipped code),TK-240146,Delivery delayed / tracking,Y,final

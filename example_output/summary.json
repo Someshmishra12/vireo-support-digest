@@ -1,0 +1,40 @@
+{
+  "tickets_after_dedupe": 11875,
+  "weeks_covered": 77.9,
+  "export_tickets_per_week": 152.5,
+  "stated_tickets_per_week": 650,
+  "scale_factor": 4.26,
+  "repeat_rate_same_issue": 0.1029,
+  "repeat_tickets": 1222,
+  "repeat_cost_export_inr": 312100,
+  "avg_cost_per_repeat_inr": 255,
+  "repeat_cost_per_quarter_at_export_volume_inr": 52112,
+  "repeat_cost_per_quarter_at_650_per_week_inr": 222084,
+  "breaches": 1051,
+  "breach_rate": 0.0885,
+  "breach_credit_export_inr": 367850,
+  "tickets_resolved_by_other_team": 1448,
+  "transfers_field_gt0": 1040,
+  "data_quality": {
+    "rows_in": 12528,
+    "duplicate_ticket_ids": 653,
+    "legacy_resolved_before_created_raw": 1874,
+    "resolved_before_created_after_fix": 0,
+    "legacy_csat_zero_to_blank": 1750,
+    "rows_out": 11875
+  },
+  "breach_handover": {
+    "breach_rate_cross_shift": 0.1599,
+    "breach_rate_same_shift": 0.0581,
+    "cross_shift_share": 0.2987,
+    "excess_breaches": 402.9589,
+    "excess_credit_inr": 141035.6256,
+    "median_first_response_min_cross": 118.0,
+    "median_first_response_min_same": 13.0
+  },
+  "goal": "Cut first-response breaches from 8.9% to 5.8% of tickets (the rate tickets already achieve when the same shift that received them answers them; tickets handed across a shift boundary breach at 16.0%). Worth about Rs 100,358 a quarter in SLA credits at 650 tickets/week (Rs 23,549 at the export's own volume).",
+  "goal_quarterly_saving_inr_at_650": 100358,
+  "repeat_contact_secondary": "Repeat contacts cost Rs 222,084 a quarter at 650/week; cutting them by a third saves about Rs 74,028.",
+  "refund_and_replacement_tickets": 4,
+  "refund_and_replacement_inr": 11850.0
+}
